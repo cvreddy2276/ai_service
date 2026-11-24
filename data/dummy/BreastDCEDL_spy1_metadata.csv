@@ -1,0 +1,4 @@
+pid,age,ER,PR,HER2,HR_HER2_STATUS,pCR,rcb_class
+ISPY1_dummy001,45.2,1.0,1.0,0.0,HRposHER2neg,0.0,2.0
+ISPY1_dummy002,50.4,0.0,0.0,0.0,TripleNeg,1.0,0.0
+ISPY1_dummy003,55.6,1.0,1.0,1.0,HRposHER2neg,0.0,2.0

@@ -1,0 +1,44 @@
+# Large Clinical Dataset
+BreastDCEDL_spy1/
+BrestDCEDL_spy1/
+data/raw/
+*.nii
+*.nii.gz
+
+# Python virtual environment
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+
+# Node / Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+client/dist/
+client/build/
+
+# Uploads & Temporary artifacts
+server/uploads/*
+!server/uploads/.gitkeep
+server/reports/*
+!server/reports/.gitkeep
+
+# Environment & Credentials
+.env
+.env.local
+.env.*.local
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Local agent / tool cache
+.dual-graph/

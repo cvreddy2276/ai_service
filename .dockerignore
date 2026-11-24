@@ -1,0 +1,12 @@
+.venv
+.git
+.agent
+.dual-graph
+**/node_modules
+**/dist
+BreastDCEDL_spy1
+*.docx
+*.pdf
+**/__pycache__
+**/*.pyc
+**/*.pyo
